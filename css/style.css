@@ -56,7 +56,7 @@ img {
 	width: 100%;
 }
 #header div {
-	margin: 0 auto;
+margin-left: auto; margin-right: auto; width: 6em	margin: 0 auto;
 	max-width: 940px;
 	overflow: hidden;
 	padding: 41px 10px 27px;
